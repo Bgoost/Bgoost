@@ -48,79 +48,6 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 
 <a href="https://github.com/Bgoost"><img align="right" src="https://img.shields.io/badge/Level-5.11-darkgreen" alt="Level"></a>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><b>0</b></td>
-    <td align="center"><b>1</b></td>
-    <td align="center"><b>2</b></td>
-    <td align="center"><b>3</b></td>
-    <td align="center"><b>4</b></td>
-    <td align="center"><b>5</b></td>
-    <td align="center"><b>6</b></td>
-  </tr>
-  <tr>
-    <td align="left" valign="top">
-      <a href="https://github.com/Bgoost/libft"><b>libft</b></a><br>
-      <small>C library: reimplemented libc functions</small>
-    </td>
-    <td align="left" valign="top">
-      <a href="https://github.com/Bgoost/Born2beRoot"><b>born2beRoot</b></a><br>
-      <small>Linux sysadmin: SSH, sudo, firewall</small><br>
-      <a href="https://github.com/Bgoost/ft_printf"><b>ft_printf</b></a><br>
-      <small>Reimplement printf</small><br>
-      <a href="https://github.com/Bgoost/get_next_line"><b>get_next_line</b></a><br>
-      <small>Read line by line from fd</small>
-    </td>
-    <td align="left" valign="top">
-      <a href="https://github.com/Bgoost/push_swap"><b>push_swap</b></a><br>
-      <small>Sorting with two stacks</small><br>
-      <a href="https://github.com/Bgoost/fractol"><b>fractol</b></a><br>
-      <small>Fractal viewer (Mandelbrot, Julia)</small><br>
-      <a href="https://github.com/Bgoost/pipex"><b>pipex</b></a><br>
-      <small>Pipes and redirections</small>
-    </td>
-    <td align="left" valign="top">
-      <a href="https://github.com/Bgoost/philosophers"><b>philosophers</b></a><br>
-      <small>Dining philosophers, threads</small><br>
-      <a href="https://github.com/Bgoost/minishell"><b>minishell</b></a><br>
-      <small>Unix shell in C</small>
-    </td>
-    <td align="left" valign="top">
-      <a href="https://github.com/Bgoost/netpractice"><b>netpractice</b></a><br>
-      <small>Network addressing</small><br>
-      <a href="https://github.com/Bgoost/Cub3D"><b>cub3D</b></a><br>
-      <small>Raycasting 3D (Wolfenstein-style)</small><br>
-      <a href="https://github.com/Bgoost/cpp-module-00"><b>cpp0–4</b></a><br>
-      <small>C++ modules 00–04</small>
-    </td>
-    <td align="left" valign="top">
-      <a href="https://github.com/Bgoost/ft_irc"><b>ft_irc</b></a><br>
-      <small>IRC server in C++</small><br>
-      <a href="https://github.com/Bgoost/inception"><b>inception</b></a><br>
-      <small>Docker multi-container</small><br>
-      <a href="https://github.com/Bgoost/CPPS"><b>cpp5–9</b></a><br>
-      <small>C++ modules 05–09</small>
-    </td>
-    <td align="left" valign="top">
-      <a href="https://github.com/Bgoost/transcendence"><b>transcendence</b></a><br>
-      <small>Full-stack web project</small>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">—</td>
-    <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank02</b></a></td>
-    <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank03</b></a></td>
-    <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank04</b></a></td>
-    <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank05</b></a></td>
-    <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank06</b></a></td>
-    <td align="center">—</td>
-  </tr>
-</table>
-
-</div>
-
 <table align="center">
   <thead>
     <tr>
@@ -134,14 +61,11 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
     <!-- LEVEL 0 -->
     <tr>
       <td align="center" rowspan="1">
-        <img width="40" src="https://raw.githubusercontent.com/42Paris/42paris.github.io/master/assets/images/42_logo.svg" />
-        <br><b>0</b>
+      [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,git,docker,linux,c,cpp,bash&perline=5)](https://skillicons.dev)
       </td>
       <td><b><a href="https://github.com/Bgoost/libft">libft</a></b></td>
       <td>C library with reimplemented libc functions (strings, memory, lists).</td>
     </tr>
-    <!-- SEPARATOR -->
-    <tr><td colspan="3"><hr></td></tr>
     <!-- LEVEL 1 -->
     <tr>
       <td align="center" rowspan="3"><b>1</b></td>
@@ -156,8 +80,6 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
       <td><b><a href="https://github.com/Bgoost/get_next_line">get_next_line</a></b></td>
       <td>Read a file line by line using a single file descriptor.</td>
     </tr>
-    <!-- SEPARATOR -->
-    <tr><td colspan="3"><hr></td></tr>
     <!-- LEVEL 2 -->
     <tr>
       <td align="center" rowspan="3"><b>2</b></td>
