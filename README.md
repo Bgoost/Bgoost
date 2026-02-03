@@ -41,69 +41,184 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 
 ---
 
-42 · Common Core Cursus
+## 42 · Common Core Cursus
 
-42 – Common Core Cursus
- at 42 Network · Projects overview
-<a href="#"><img align="right" src="https://img.shields.io/badge/Level-5.11-darkgreen"></a>
+**[42 - Common Core Cursus](https://github.com/Bgoost)** at 42 network | Projects overview  
+*(Replace the badge link with your 42Cursus repo if you use a monorepo.)*
 
-<div align="center"> <table> <!-- LEFT COLUMN: 42 LOGO --> <tr> <td rowspan="4" align="center"> <a href="https://42.fr/"> <img width="90" src="https://raw.githubusercontent.com/42Paris/42paris.github.io/master/assets/images/42_logo.svg" /> </a> </td> <td align="center"><b>0</b></td> <td align="center"><b>1</b></td> <td align="center"><b>2</b></td> <td align="center"><b>3</b></td> <td align="center"><b>4</b></td> <td align="center"><b>5</b></td> <td align="center"><b>6</b></td> </tr> <!-- PROJECTS --> <tr> <td align="left" valign="top"> <b><a href="https://github.com/Bgoost/libft">libft</a></b><br> <small>C library, reimplemented libc</small> </td>
-<td align="left" valign="top">
-  <b><a href="https://github.com/Bgoost/Born2beRoot">born2beRoot</a></b><br>
-  <small>Linux sysadmin, SSH, sudo</small><br><br>
+<a href="https://github.com/Bgoost"><img align="right" src="https://img.shields.io/badge/Level-5.11-darkgreen" alt="Level"></a>
 
-  <b><a href="https://github.com/Bgoost/ft_printf">ft_printf</a></b><br>
-  <small>printf reimplementation</small><br><br>
+<div align="center">
 
-  <b><a href="https://github.com/Bgoost/get_next_line">get_next_line</a></b><br>
-  <small>Line-by-line file reading</small>
-</td>
+<table>
+  <tr>
+    <td align="center"><b>0</b></td>
+    <td align="center"><b>1</b></td>
+    <td align="center"><b>2</b></td>
+    <td align="center"><b>3</b></td>
+    <td align="center"><b>4</b></td>
+    <td align="center"><b>5</b></td>
+    <td align="center"><b>6</b></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+      <a href="https://github.com/Bgoost/libft"><b>libft</b></a><br>
+      <small>C library: reimplemented libc functions</small>
+    </td>
+    <td align="left" valign="top">
+      <a href="https://github.com/Bgoost/Born2beRoot"><b>born2beRoot</b></a><br>
+      <small>Linux sysadmin: SSH, sudo, firewall</small><br>
+      <a href="https://github.com/Bgoost/ft_printf"><b>ft_printf</b></a><br>
+      <small>Reimplement printf</small><br>
+      <a href="https://github.com/Bgoost/get_next_line"><b>get_next_line</b></a><br>
+      <small>Read line by line from fd</small>
+    </td>
+    <td align="left" valign="top">
+      <a href="https://github.com/Bgoost/push_swap"><b>push_swap</b></a><br>
+      <small>Sorting with two stacks</small><br>
+      <a href="https://github.com/Bgoost/fractol"><b>fractol</b></a><br>
+      <small>Fractal viewer (Mandelbrot, Julia)</small><br>
+      <a href="https://github.com/Bgoost/pipex"><b>pipex</b></a><br>
+      <small>Pipes and redirections</small>
+    </td>
+    <td align="left" valign="top">
+      <a href="https://github.com/Bgoost/philosophers"><b>philosophers</b></a><br>
+      <small>Dining philosophers, threads</small><br>
+      <a href="https://github.com/Bgoost/minishell"><b>minishell</b></a><br>
+      <small>Unix shell in C</small>
+    </td>
+    <td align="left" valign="top">
+      <a href="https://github.com/Bgoost/netpractice"><b>netpractice</b></a><br>
+      <small>Network addressing</small><br>
+      <a href="https://github.com/Bgoost/Cub3D"><b>cub3D</b></a><br>
+      <small>Raycasting 3D (Wolfenstein-style)</small><br>
+      <a href="https://github.com/Bgoost/cpp-module-00"><b>cpp0–4</b></a><br>
+      <small>C++ modules 00–04</small>
+    </td>
+    <td align="left" valign="top">
+      <a href="https://github.com/Bgoost/ft_irc"><b>ft_irc</b></a><br>
+      <small>IRC server in C++</small><br>
+      <a href="https://github.com/Bgoost/inception"><b>inception</b></a><br>
+      <small>Docker multi-container</small><br>
+      <a href="https://github.com/Bgoost/CPPS"><b>cpp5–9</b></a><br>
+      <small>C++ modules 05–09</small>
+    </td>
+    <td align="left" valign="top">
+      <a href="https://github.com/Bgoost/transcendence"><b>transcendence</b></a><br>
+      <small>Full-stack web project</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">—</td>
+    <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank02</b></a></td>
+    <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank03</b></a></td>
+    <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank04</b></a></td>
+    <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank05</b></a></td>
+    <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank06</b></a></td>
+    <td align="center">—</td>
+  </tr>
+</table>
 
-<td align="left" valign="top">
-  <b><a href="https://github.com/Bgoost/push_swap">push_swap</a></b><br>
-  <small>Sorting with constraints</small><br><br>
+</div>
 
-  <b><a href="https://github.com/Bgoost/fractol">fractol</a></b><br>
-  <small>Fractal rendering</small><br><br>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center"> </th>
+      <th align="left">Project</th>
+      <th align="left">What it is</th>
+    </tr>
+  </thead>
 
-  <b><a href="https://github.com/Bgoost/pipex">pipex</a></b><br>
-  <small>Pipes & redirections</small>
-</td>
+  <tbody>
+    <!-- LEVEL 0 -->
+    <tr>
+      <td align="center" rowspan="1">
+        <img width="40" src="https://raw.githubusercontent.com/42Paris/42paris.github.io/master/assets/images/42_logo.svg" />
+        <br><b>0</b>
+      </td>
+      <td><b><a href="https://github.com/Bgoost/libft">libft</a></b></td>
+      <td>C library with reimplemented libc functions (strings, memory, lists).</td>
+    </tr>
+    <!-- SEPARATOR -->
+    <tr><td colspan="3"><hr></td></tr>
+    <!-- LEVEL 1 -->
+    <tr>
+      <td align="center" rowspan="3"><b>1</b></td>
+      <td><b><a href="https://github.com/Bgoost/Born2beRoot">born2beRoot</a></b></td>
+      <td>Linux system administration: SSH, sudo, firewall, partitioning.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Bgoost/ft_printf">ft_printf</a></b></td>
+      <td>Reimplementation of <code>printf</code> with format handling.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Bgoost/get_next_line">get_next_line</a></b></td>
+      <td>Read a file line by line using a single file descriptor.</td>
+    </tr>
+    <!-- SEPARATOR -->
+    <tr><td colspan="3"><hr></td></tr>
+    <!-- LEVEL 2 -->
+    <tr>
+      <td align="center" rowspan="3"><b>2</b></td>
+      <td><b><a href="https://github.com/Bgoost/push_swap">push_swap</a></b></td>
+      <td>Sorting with two stacks and a limited instruction set.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Bgoost/fractol">fractol</a></b></td>
+      <td>Fractal viewer (Mandelbrot, Julia) using minilibx.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Bgoost/pipex">pipex</a></b></td>
+      <td>Reproduce shell pipes and redirections (<code>cmd1 | cmd2</code>).</td>
+    </tr>
+    <!-- LEVEL 3 -->
+    <tr>
+      <td align="center" rowspan="2"><b>3</b></td>
+      <td><b><a href="https://github.com/Bgoost/philosophers">philosophers</a></b></td>
+      <td>Dining philosophers problem using threads and mutexes.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Bgoost/minishell">minishell</a></b></td>
+      <td>Unix shell in C: pipes, redirections, builtins.</td>
+    </tr>
+    <!-- LEVEL 4 -->
+    <tr>
+      <td align="center" rowspan="3"><b>4</b></td>
+      <td><b><a href="https://github.com/Bgoost/netpractice">netpractice</a></b></td>
+      <td>Network addressing and subnetting exercises.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Bgoost/Cub3D">cub3D</a></b></td>
+      <td>3D raycasting engine (Wolfenstein-style) in C.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Bgoost/cpp-module-00">cpp 00–04</a></b></td>
+      <td>C++ modules: OOP basics, polymorphism, templates.</td>
+    </tr>
+    <!-- LEVEL 5 -->
+    <tr>
+      <td align="center" rowspan="3"><b>5</b></td>
+      <td><b><a href="https://github.com/Bgoost/ft_irc">ft_irc</a></b></td>
+      <td>IRC server in C++ (RFC 1459).</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Bgoost/inception">inception</a></b></td>
+      <td>Docker multi-container infrastructure (WordPress stack).</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Bgoost/CPPS">cpp 05–09</a></b></td>
+      <td>Advanced C++: templates, containers, algorithms.</td>
+    </tr>
+    <!-- LEVEL 6 -->
+    <tr>
+      <td align="center"><b>6</b></td>
+      <td><b><a href="https://github.com/Bgoost/transcendence">transcendence</a></b></td>
+      <td>Full-stack final project (in progress).</td>
+    </tr>
+  </tbody>
+</table>
 
-<td align="left" valign="top">
-  <b><a href="https://github.com/Bgoost/philosophers">philosophers</a></b><br>
-  <small>Threads & mutexes</small><br><br>
-
-  <b><a href="https://github.com/Bgoost/minishell">minishell</a></b><br>
-  <small>Unix shell in C</small>
-</td>
-
-<td align="left" valign="top">
-  <b><a href="https://github.com/Bgoost/netpractice">netpractice</a></b><br>
-  <small>Networking & subnetting</small><br><br>
-
-  <b><a href="https://github.com/Bgoost/Cub3D">cub3D</a></b><br>
-  <small>3D raycasting engine</small><br><br>
-
-  <b><a href="https://github.com/Bgoost/cpp-module-00">cpp 00–04</a></b><br>
-  <small>C++ OOP foundations</small>
-</td>
-
-<td align="left" valign="top">
-  <b><a href="https://github.com/Bgoost/ft_irc">ft_irc</a></b><br>
-  <small>IRC server (C++)</small><br><br>
-
-  <b><a href="https://github.com/Bgoost/inception">inception</a></b><br>
-  <small>Docker multi-container</small><br><br>
-
-  <b><a href="https://github.com/Bgoost/CPPS">cpp 05–09</a></b><br>
-  <small>Advanced C++</small>
-</td>
-
-<td align="left" valign="top">
-  <b><a href="https://github.com/Bgoost/transcendence">transcendence</a></b><br>
-  <small>Full-stack final project</small>
-</td>
 
 ---
 
