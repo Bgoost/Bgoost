@@ -8,9 +8,7 @@
 
 ### About
 
-I care about code that justifies its existence. That means clear intent, minimal indirection, and complexity only where it pays off. I work in C and C++, close to the metal and the kernel, and I prefer tools and abstractions that stay out of the way until they’re needed.
-
-This profile is a snapshot of what I’ve built and how I think—not a resume.
+I care about code that justifies its existence: clear intent, minimal indirection, complexity only where it pays off. I work in C and C++, close to the metal and the kernel. This profile is a snapshot of what I've built and how I think—not a resume.
 
 ---
 
@@ -26,22 +24,25 @@ This profile is a snapshot of what I’ve built and how I think—not a resume.
 
 ---
 
-### Selected work
+### 42 · Common Core
 
-Repositories here are experiments and learning artifacts—things that helped me understand a system, fix a real problem, or explore an idea. I’d rather have a few projects that show deliberate thinking than a long list of templates.
+Projects from the [42](https://42.fr) curriculum—systems programming, from the ground up.
 
-| Project | What it is |
-|--------|------------|
-| — | *Replace with a repo that matters to you* |
-| — | *One line: what you learned or built* |
-| — | *Keep the list short and honest* |
+| Project | Description |
+|--------|-------------|
+| [so_long](https://github.com/Bgoost/so_long) | 2D game with minilibx. |
+| [minishell](https://github.com/Bgoost/minishell) | Unix shell in C. |
+| [Cub3D](https://github.com/Bgoost/Cub3D) | Raycasting / 3D in C. |
+| [ft_irc](https://github.com/Bgoost/ft_irc) | IRC server in C++. |
+| [CPPS](https://github.com/Bgoost/CPPS) | C++ modules (OO, templates, containers). |
+| [inception](https://github.com/Bgoost/inception) | Docker & system admin. |
 
 ---
 
 ### Elsewhere
 
 - **GitHub:** [Bgoost](https://github.com/Bgoost)
-- Add links (blog, Mastodon, etc.) only if you use them.
+- Add blog, Mastodon, LinkedIn, etc. only if you use them.
 
 ---
 
