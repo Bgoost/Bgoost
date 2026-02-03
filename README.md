@@ -22,9 +22,10 @@
 </p>
 
 ---
+## 📊 GitHub Activity
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bgoost&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgoost&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bgoost&theme=dark&hide_border=true" />
 </p>
 
 
