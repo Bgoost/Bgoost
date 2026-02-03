@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=520&lines=systems+%7C+low-level+%7C+abstractions+that+earn+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3800&pause=1200&color=94A3B8&center=true&vCenter=true&width=480&multiline=true&lines=building+from+the+kernel+up;42+%7C+systems+%7C+no+black+boxes)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,13 +45,6 @@ Repositories here are experiments and learning artifacts—things that helped me
 
 ---
 
-<details>
-<summary><strong>Contribution graph (optional)</strong></summary>
-
-To use the contribution snake, add the [Platane/snk](https://github.com/Platane/snk) workflow to this repo and uncomment the image below.
-
-<!--
-![Contribution snake](https://raw.githubusercontent.com/Bgoost/Bgoost/output/github-contribution-grid-snake.svg)
--->
-
-</details>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bgoost/Bgoost/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions Snake" />
+</p>
