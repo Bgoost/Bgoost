@@ -61,18 +61,21 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
     <!-- LEVEL 0 -->
     <tr>
       <td align="center" rowspan="1">
-      <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,vim" />
+      </a>
       </td>
       <td><b><a href="https://github.com/Bgoost/libft">libft</a></b></td>
       <td>C library with reimplemented libc functions (strings, memory, lists).</td>
     </tr>
     <!-- LEVEL 1 -->
     <tr>
-      <td align="center" rowspan="3"><b>1</b></td>
+      <td align="center" rowspan="3">
+      <b>1</b>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,vim" />
+      </a>
+      </td>
       <td><b><a href="https://github.com/Bgoost/Born2beRoot">born2beRoot</a></b></td>
       <td>Linux system administration: SSH, sudo, firewall, partitioning.</td>
     </tr>
