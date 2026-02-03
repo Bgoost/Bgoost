@@ -61,7 +61,11 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
     <!-- LEVEL 0 -->
     <tr>
       <td align="center" rowspan="1">
-      [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,git,docker,linux,c,cpp,bash&perline=5)](https://skillicons.dev)
+      <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
       </td>
       <td><b><a href="https://github.com/Bgoost/libft">libft</a></b></td>
       <td>C library with reimplemented libc functions (strings, memory, lists).</td>
