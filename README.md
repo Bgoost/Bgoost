@@ -105,8 +105,6 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
   <small>Full-stack final project</small>
 </td>
 
-</tr> <!-- EXAMS --> <tr> <td align="center">—</td> <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank02</b></a></td> <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank03</b></a></td> <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank04</b></a></td> <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank05</b></a></td> <td align="center"><a href="https://github.com/Bgoost/42-Exams"><b>rank06</b></a></td> <td align="center">—</td> </tr> </table> </div>
-
 ---
 
 ## Stats
