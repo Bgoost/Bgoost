@@ -198,16 +198,30 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bgoost&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bgoost&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td align="left" valign="top">
+      <b>GitHub profile</b><br>
+      <ul>
+        <li>Public repositories: <b>14</b></li>
+        <li>Stars across repos: <b>3+</b></li>
+        <li>Achievements: <b>Pull Shark</b>, <b>YOLO</b></li>
+      </ul>
+    </td>
+    <td align="left" valign="top">
+      <b>Language mix (by projects)</b><br>
+      <pre>
+C      ██████████  42 Core & systems
+C++    ██████░░░░  C++ modules, ft_irc
+C#     ███░░░░░░░  Backend & APIs
+Shell  ██░░░░░░░░  Tooling & scripts
+Other  █░░░░░░░░░  SQL, Python, etc.
+      </pre>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<sub><sup>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>.</sup></sub>
 
 ---
 
