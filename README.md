@@ -45,7 +45,7 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 
 
 
-<h1>42 · Common Core Cursus <a href="https://42.fr"> <img align="right" width="90" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" /> </a> </h1>
+<h1><img src="https://raw.githubusercontent.com/Bgoost/Bgoost/main/assets/42_Logo.svg" alt="42 Logo" width="70" /> · Common Core Cursus</h1>
 
 <table>
   <thead> 
@@ -196,12 +196,14 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 
 ## Stats
 
-<div align="center">
+These are handcrafted snapshots instead of auto-generated cards.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bgoost&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bgoost&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+| Area | Snapshot |
+|------|----------|
+| **42** | Progressing through Common Core with projects like `libft`, `push_swap`, `minishell`, `cub3D`, `ft_irc`, and `inception`; `transcendence` in progress. |
+| **Backend** | Day‑to‑day work in C#/.NET, REST APIs, and SQL, with a focus on clean, testable business logic. |
+| **Systems** | Comfortable in C/C++, Linux, and Docker from 42 projects (shell, networking, concurrency, containers). |
+| **GitHub** | Repos are split between 42 learning artifacts and backend experiments, mostly in C, C++, C#, and shell. |
 
 ---
 
