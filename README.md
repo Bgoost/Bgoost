@@ -53,6 +53,7 @@ Backend, systems, and low-level programming journey
   <thead> 
     <tr>
       <th align="center">Level</th>
+      <th align="center">Tech used</th>
       <th align="left">Project</th>
       <th align="left">Description & Tech</th>
     </tr>
@@ -71,7 +72,7 @@ Backend, systems, and low-level programming journey
 <tr>
   <td align="center" rowspan="3">🟢 1</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=linux,bash" /><br></td>
-  <td><b><a href="https://github.com/Bgoost/Born2beRoot">born2beRoot</a></b></td>
+  <td><b>born2beRoot</b></td>
   <td>
     Linux system administration: users, SSH, sudo, firewall, partitions.
   </td>
@@ -119,7 +120,7 @@ Backend, systems, and low-level programming journey
 <tr>
   <td align="center" rowspan="2">🟢 3</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
-  <td><b><a href="https://github.com/Bgoost/philosophers">philosophers</a></b></td>
+  <td><b><a href="https://github.com/Bgoost/philos">philosophers</a></b></td>
   <td>
     Dining philosophers using threads and mutexes.
   </td>
@@ -136,7 +137,7 @@ Backend, systems, and low-level programming journey
 <tr>
   <td align="center" rowspan="3">🟢 4</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=network" /></td>
-  <td><b><a href="https://github.com/Bgoost/netpractice">netpractice</a></b></td>
+  <td><b>netpractice</b></td>
   <td>
     Network addressing and subnetting exercises.
   </td>
@@ -150,7 +151,7 @@ Backend, systems, and low-level programming journey
 </tr>
 <tr>
   <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td>
-  <td><b><a href="https://github.com/Bgoost/cpp-module-00">C++ modules 00–04</a></b></td>
+  <td><b><a href="https://github.com/Bgoost/CPPS">C++ modules 00–04</a></b></td>
   <td>
     OOP fundamentals, inheritance, polymorphism.
   </td>
@@ -166,7 +167,7 @@ Backend, systems, and low-level programming journey
   </td>
 </tr>
 <tr>
-  <td> align="center"<img src="https://skillicons.dev/icons?i=docker,nginx,mysql,wordpress" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=docker,nginx,mysql,wordpress" /></td>
   <td><b><a href="https://github.com/Bgoost/inception">inception</a></b></td>
   <td>
     Multi-container Docker infrastructure.
