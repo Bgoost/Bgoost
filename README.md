@@ -77,14 +77,14 @@ Backend, systems, and low-level programming journey
   </td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=c" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
   <td><b><a href="https://github.com/Bgoost/ft_printf">ft_printf</a></b></td>
   <td>
     Reimplementation of <code>printf</code> with format parsing.
   </td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=c" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
   <td><b><a href="https://github.com/Bgoost/get_next_line">get_next_line</a></b></td>
   <td>
     Read files line by line using a single file descriptor.
@@ -94,21 +94,21 @@ Backend, systems, and low-level programming journey
 <!-- LEVEL 2 -->
 <tr>
   <td align="center" rowspan="3">🟢 2</td>
-  <td><img src="https://skillicons.dev/icons?i=c" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
   <td><b><a href="https://github.com/Bgoost/push_swap">push_swap</a></b></td>
   <td>
     Sorting algorithm using two stacks and constrained operations.
   </td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=c" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
   <td><b><a href="https://github.com/Bgoost/so_long">so_long</a></b></td>
   <td>
     2D game project using minilibx.
   </td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=c,linux" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c,linux" /></td>
   <td><b><a href="https://github.com/Bgoost/minitalk">minitalk</a></b></td>
   <td>
     Unix signal communication between processes.
@@ -118,14 +118,14 @@ Backend, systems, and low-level programming journey
 <!-- LEVEL 3 -->
 <tr>
   <td align="center" rowspan="2">🟢 3</td>
-  <td><img src="https://skillicons.dev/icons?i=c" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
   <td><b><a href="https://github.com/Bgoost/philosophers">philosophers</a></b></td>
   <td>
     Dining philosophers using threads and mutexes.
   </td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=c,linux,bash" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c,linux,bash" /></td>
   <td><b><a href="https://github.com/Bgoost/minishell">minishell</a></b></td>
   <td>
     Unix shell with pipes, redirections, and builtins.
@@ -135,21 +135,21 @@ Backend, systems, and low-level programming journey
 <!-- LEVEL 4 -->
 <tr>
   <td align="center" rowspan="3">🟢 4</td>
-  <td><img src="https://skillicons.dev/icons?i=net" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=network" /></td>
   <td><b><a href="https://github.com/Bgoost/netpractice">netpractice</a></b></td>
   <td>
     Network addressing and subnetting exercises.
   </td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=c" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
   <td><b><a href="https://github.com/Bgoost/Cub3D">cub3D</a></b></td>
   <td>
     3D raycasting engine (Wolfenstein-style).
   </td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td>
   <td><b><a href="https://github.com/Bgoost/cpp-module-00">C++ modules 00–04</a></b></td>
   <td>
     OOP fundamentals, inheritance, polymorphism.
@@ -159,21 +159,21 @@ Backend, systems, and low-level programming journey
 <!-- LEVEL 5 -->
 <tr>
   <td align="center" rowspan="3">🟢 5</td>
-  <td><img src="https://skillicons.dev/icons?i=cpp,linux,hexchat" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=cpp,linux,hexchat" /></td>
   <td><b><a href="https://github.com/Bgoost/ft_irc">ft_irc</a></b></td>
   <td>
     IRC server compliant with RFC 1459.
   </td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=docker,nginx,mysql,mariadb,wordpress" /></td>
+  <td> align="center"<img src="https://skillicons.dev/icons?i=docker,nginx,mysql,wordpress" /></td>
   <td><b><a href="https://github.com/Bgoost/inception">inception</a></b></td>
   <td>
     Multi-container Docker infrastructure.
   </td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td>
   <td><b><a href="https://github.com/Bgoost/CPPS">C++ modules 05–09</a></b></td>
   <td>
     Templates, containers, algorithms.
@@ -183,7 +183,7 @@ Backend, systems, and low-level programming journey
 <!-- LEVEL 6 -->
 <tr>
   <td align="center">🟡 6</td>
-  <td><img src="https://skillicons.dev/icons?i=js,react,docker,postgres" /></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=js,react,docker,postgres" /></td>
   <td><b><a href="https://github.com/Bgoost/transcendence">transcendence</a></b></td>
   <td>
     Full-stack final project (in progress).
