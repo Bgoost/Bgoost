@@ -9,11 +9,10 @@
 ---
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crima/) -->
-![Linkedin(https://img.shields.io/badge/Linkedin-Connect-progress?style=for-the-badge&color=red)(https://www.linkedin.com/in/crima/)]
+[![Linkedin](https://img.shields.io/badge/Linkedin-Connect-progress?style=for-the-badge&color=red)](https://www.linkedin.com/in/crima/)
 
 </div>
 
----
 
 ## Who am I?
 
@@ -26,7 +25,6 @@ I enjoy working on problems where correctness matters, abstractions are earned, 
 Most of my projects are learning artifacts: tools and systems built to sharpen my understanding and improve how I think as an engineer.
 
 
----
 
 ## Stack
 
@@ -38,7 +36,6 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 
 *C# · .NET · ASP.NET Core · SQL · Entity Framework · REST · Git · Docker · Linux · C · C++ · Bash · Python*
 
----
 
 <div align="center">
 
@@ -46,9 +43,9 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 
 </div>
 
----
 
-<h2>42 · Common Core Cursus <a href="https://42.fr"> <img align="right" width="90" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" /> </a> </h2>
+
+<h1>42 · Common Core Cursus <a href="https://42.fr"> <img align="right" width="90" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" /> </a> </h1>
 
 <table>
   <thead> 
