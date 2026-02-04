@@ -49,27 +49,44 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 42 Network · Common Core Cursus
 Backend, systems, and low-level programming journey
 
-<table> <thead> <tr> <th align="center">Level</th> <th align="left">Project</th> <th align="left">Description & Tech</th> </tr> </thead> <tbody> <!-- LEVEL 0 --> <tr> <td align="center">🟢 0</td> <td><b><a href="https://github.com/Bgoost/libft">libft</a></b></td> <td> <img src="https://skillicons.dev/icons?i=c,vim" /><br> Reimplemented core libc functions (memory, strings, lists). </td> </tr>
+<table>
+  <thead> 
+    <tr>
+      <th align="center">Level</th>
+      <th align="left">Project</th>
+      <th align="left">Description & Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+  <!-- LEVEL 0 -->
+  <tr>
+    <td align="center">🟢 0</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c,vim" /></td>
+    <td><b><a href="https://github.com/Bgoost/libft">libft</a></b></td>
+    <td>
+      Reimplemented core libc functions (memory, strings, lists).
+    </td>
+  </tr>
 <!-- LEVEL 1 -->
 <tr>
   <td align="center" rowspan="3">🟢 1</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=linux,bash" /><br></td>
   <td><b><a href="https://github.com/Bgoost/Born2beRoot">born2beRoot</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=linux,bash" /><br>
     Linux system administration: users, SSH, sudo, firewall, partitions.
   </td>
 </tr>
 <tr>
+  <td><img src="https://skillicons.dev/icons?i=c" /></td>
   <td><b><a href="https://github.com/Bgoost/ft_printf">ft_printf</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=c" /><br>
     Reimplementation of <code>printf</code> with format parsing.
   </td>
 </tr>
 <tr>
+  <td><img src="https://skillicons.dev/icons?i=c" /></td>
   <td><b><a href="https://github.com/Bgoost/get_next_line">get_next_line</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=c" /><br>
     Read files line by line using a single file descriptor.
   </td>
 </tr>
@@ -77,40 +94,40 @@ Backend, systems, and low-level programming journey
 <!-- LEVEL 2 -->
 <tr>
   <td align="center" rowspan="3">🟢 2</td>
+  <td><img src="https://skillicons.dev/icons?i=c" /></td>
   <td><b><a href="https://github.com/Bgoost/push_swap">push_swap</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=c" /><br>
     Sorting algorithm using two stacks and constrained operations.
   </td>
 </tr>
 <tr>
-  <td><b><a href="https://github.com/Bgoost/fractol">fractol</a></b></td>
+  <td><img src="https://skillicons.dev/icons?i=c" /></td>
+  <td><b><a href="https://github.com/Bgoost/so_long">so_long</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=c" /><br>
-    Interactive fractal renderer (Mandelbrot, Julia).
+    2D game project using minilibx.
   </td>
 </tr>
 <tr>
-  <td><b><a href="https://github.com/Bgoost/pipex">pipex</a></b></td>
+  <td><img src="https://skillicons.dev/icons?i=c,linux" /></td>
+  <td><b><a href="https://github.com/Bgoost/minitalk">minitalk</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=c,linux" /><br>
-    Shell pipes and redirections (<code>cmd1 | cmd2</code>).
+    Unix signal communication between processes.
   </td>
 </tr>
 
 <!-- LEVEL 3 -->
 <tr>
   <td align="center" rowspan="2">🟢 3</td>
+  <td><img src="https://skillicons.dev/icons?i=c" /></td>
   <td><b><a href="https://github.com/Bgoost/philosophers">philosophers</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=c" /><br>
     Dining philosophers using threads and mutexes.
   </td>
 </tr>
 <tr>
+  <td><img src="https://skillicons.dev/icons?i=c,linux,bash" /></td>
   <td><b><a href="https://github.com/Bgoost/minishell">minishell</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=c,linux" /><br>
     Unix shell with pipes, redirections, and builtins.
   </td>
 </tr>
@@ -118,23 +135,23 @@ Backend, systems, and low-level programming journey
 <!-- LEVEL 4 -->
 <tr>
   <td align="center" rowspan="3">🟢 4</td>
+  <td><img src="https://skillicons.dev/icons?i=net" /></td>
   <td><b><a href="https://github.com/Bgoost/netpractice">netpractice</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=network" /><br>
     Network addressing and subnetting exercises.
   </td>
 </tr>
 <tr>
+  <td><img src="https://skillicons.dev/icons?i=c" /></td>
   <td><b><a href="https://github.com/Bgoost/Cub3D">cub3D</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=c" /><br>
     3D raycasting engine (Wolfenstein-style).
   </td>
 </tr>
 <tr>
+  <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
   <td><b><a href="https://github.com/Bgoost/cpp-module-00">C++ modules 00–04</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=cpp" /><br>
     OOP fundamentals, inheritance, polymorphism.
   </td>
 </tr>
@@ -142,23 +159,23 @@ Backend, systems, and low-level programming journey
 <!-- LEVEL 5 -->
 <tr>
   <td align="center" rowspan="3">🟢 5</td>
+  <td><img src="https://skillicons.dev/icons?i=cpp,linux,hexchat" /></td>
   <td><b><a href="https://github.com/Bgoost/ft_irc">ft_irc</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=cpp,linux" /><br>
     IRC server compliant with RFC 1459.
   </td>
 </tr>
 <tr>
+  <td><img src="https://skillicons.dev/icons?i=docker,nginx,mysql,mariadb,wordpress" /></td>
   <td><b><a href="https://github.com/Bgoost/inception">inception</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=docker,nginx,mysql" /><br>
     Multi-container Docker infrastructure.
   </td>
 </tr>
 <tr>
+  <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
   <td><b><a href="https://github.com/Bgoost/CPPS">C++ modules 05–09</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=cpp" /><br>
     Templates, containers, algorithms.
   </td>
 </tr>
@@ -166,9 +183,9 @@ Backend, systems, and low-level programming journey
 <!-- LEVEL 6 -->
 <tr>
   <td align="center">🟡 6</td>
+  <td><img src="https://skillicons.dev/icons?i=js,react,docker,postgres" /></td>
   <td><b><a href="https://github.com/Bgoost/transcendence">transcendence</a></b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=typescript,react,nestjs,postgres,docker" /><br>
     Full-stack final project (in progress).
   </td>
 </tr>
