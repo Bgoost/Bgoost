@@ -9,7 +9,7 @@
 ---
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crima/) -->
-![Linkedin](https://img.shields.io/badge/Linkedin-Connect-progress?style=for-the-badge&color=red)(https://www.linkedin.com/in/crima/)
+![Linkedin(https://img.shields.io/badge/Linkedin-Connect-progress?style=for-the-badge&color=red)(https://www.linkedin.com/in/crima/)]
 
 </div>
 
@@ -48,9 +48,7 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 
 ---
 
-## 42 · Common Core Cursus
 <h2>42 · Common Core Cursus <a href="https://42.fr"> <img align="right" width="90" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" /> </a> </h2>
-<a href="https://42.fr"> <img align="right" width="90" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" /> </a>
 
 <table>
   <thead> 
