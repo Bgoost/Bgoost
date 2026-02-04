@@ -198,28 +198,11 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="left" valign="top">
-      <b>GitHub profile</b><br>
-      <ul>
-        <li>Public repositories: <b>14</b></li>
-        <li>Stars across repos: <b>3+</b></li>
-        <li>Achievements: <b>Pull Shark</b>, <b>YOLO</b></li>
-      </ul>
-    </td>
-    <td align="left" valign="top">
-      <b>Language mix (by projects)</b><br>
-      <pre>
-C      ██████████  42 Core & systems
-C++    ██████░░░░  C++ modules, ft_irc
-C#     ███░░░░░░░  Backend & APIs
-Shell  ██░░░░░░░░  Tooling & scripts
-Other  █░░░░░░░░░  SQL, Python, etc.
-      </pre>
-    </td>
-  </tr>
-</table>
+<img src="assets/profile-overview.svg" alt="Bgoost Profile Overview" />
+<br/>
+<img src="assets/language-usage.svg" alt="Bgoost Language Usage" />
+<br/>
+<img src="assets/project-focus.svg" alt="Bgoost Project Focus" />
 
 </div>
 

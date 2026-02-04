@@ -1,0 +1,72 @@
+<svg width="520" height="150" viewBox="0 0 520 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Bgoost · GitHub Profile Overview</title>
+  <desc id="desc">Custom GitHub overview stats card for Bgoost.</desc>
+  <defs>
+    <linearGradient id="bg-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0b1120"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect x="0.5" y="0.5" width="519" height="149" rx="12" fill="url(#bg-gradient)" stroke="#1e293b" />
+
+  <!-- Header bar -->
+  <rect x="0.5" y="0.5" width="519" height="34" rx="12" fill="#020617" />
+  <text x="20" y="24" fill="#e5e7eb" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" font-weight="600">
+    Bgoost · Profile Overview
+  </text>
+  <text x="500" y="22" text-anchor="end" fill="#64748b" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10">
+    backend · systems
+  </text>
+
+  <!-- Left stats block -->
+  <g transform="translate(20,55)">
+    <!-- Total repos -->
+    <circle cx="10" cy="4" r="4" fill="#38bdf8" />
+    <text x="22" y="7" fill="#e5e7eb" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11">
+      Public repositories:
+      <tspan fill="#38bdf8" font-weight="600">14</tspan>
+    </text>
+
+    <!-- Stars -->
+    <circle cx="10" cy="26" r="4" fill="#facc15" />
+    <text x="22" y="29" fill="#e5e7eb" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11">
+      Stars across repos:
+      <tspan fill="#facc15" font-weight="600">3+</tspan>
+    </text>
+
+    <!-- Commits -->
+    <circle cx="10" cy="48" r="4" fill="#4ade80" />
+    <text x="22" y="51" fill="#e5e7eb" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11">
+      Commits this year (approx.):
+      <tspan fill="#4ade80" font-weight="600">300</tspan>
+    </text>
+  </g>
+
+  <!-- Right badges block -->
+  <g transform="translate(280,55)">
+    <text x="0" y="0" fill="#9ca3af" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11">
+      Achievements
+    </text>
+
+    <!-- Pull Shark -->
+    <rect x="0" y="10" width="95" height="20" rx="10" fill="#0f172a" stroke="#22c55e" stroke-width="0.7"/>
+    <text x="10" y="24" fill="#bbf7d0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10">
+      Ï Pull&nbsp;Shark
+    </text>
+
+    <!-- YOLO -->
+    <rect x="105" y="10" width="70" height="20" rx="10" fill="#0f172a" stroke="#f97316" stroke-width="0.7"/>
+    <text x="115" y="24" fill="#fed7aa" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10">
+      Ï YOLO
+    </text>
+
+    <!-- Arctic Code Vault (dimmed / placeholder) -->
+    <rect x="0" y="36" width="135" height="20" rx="10" fill="#020617" stroke="#1f2937" stroke-width="0.7"/>
+    <text x="10" y="50" fill="#6b7280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10">
+      Ì Arctic Code Vault
+    </text>
+  </g>
+</svg>
+
