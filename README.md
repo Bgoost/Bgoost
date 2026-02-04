@@ -196,14 +196,18 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 
 ## Stats
 
-These are handcrafted snapshots instead of auto-generated cards.
+<div align="center">
 
-| Area | Snapshot |
-|------|----------|
-| **42** | Progressing through Common Core with projects like `libft`, `push_swap`, `minishell`, `cub3D`, `ft_irc`, and `inception`; `transcendence` in progress. |
-| **Backend** | Day‑to‑day work in C#/.NET, REST APIs, and SQL, with a focus on clean, testable business logic. |
-| **Systems** | Comfortable in C/C++, Linux, and Docker from 42 projects (shell, networking, concurrency, containers). |
-| **GitHub** | Repos are split between 42 learning artifacts and backend experiments, mostly in C, C++, C#, and shell. |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bgoost&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bgoost&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<sub><sup>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>.</sup></sub>
 
 ---
 
