@@ -4,12 +4,12 @@
 
 <!-- ### Backend Developer · Barcelona -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=F70000&background=F0960000&center=true&vCenter=true&width=435&lines=Backend%E3%85%A4%E2%95%91%E3%85%A4C%23+%26+.NET%E3%85%A4%E2%95%91%E3%85%A442+system;From+the+kernel+up)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=F70000&background=F0960000&center=true&vCenter=true&width=500&lines=Backend%E3%85%A4%E2%95%91%E3%85%A4C%23+%26+.NET%E3%85%A4%E2%95%91%E3%85%A442+system;From+the+kernel+up)](https://git.io/typing-svg)
 
 ---
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crima/) -->
-![Static Badge](https://img.shields.io/badge/Linkedin-Connect-progress?style=for-the-badge&color=red&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcrima%2F)
+![Linkedin](https://img.shields.io/badge/Linkedin-Connect-progress?style=for-the-badge&color=red)(https://www.linkedin.com/in/crima/)
 
 </div>
 
@@ -17,13 +17,11 @@
 
 ## Who am I?
 
-## 🧭 About Me
-
 I build backend systems where logic, data, and structure matter more than surface polish.
 
 My background is rooted in C#/.NET development, APIs, and database-driven systems, combined with hands-on experience in systems administration. That mix made me opinionated about clean code, explicit design, and understanding what’s actually happening under the hood.
 
-I enjoy working on problems where correctness matters, abstractions are earned, and complexity is intentional. When something breaks, I want to know *why* — not just how to patch it.
+I enjoy working on problems where correctness matters, abstractions are earned, and complexity is intentional. When something breaks, I want to know *why* - not just how to patch it.
 
 Most of my projects are learning artifacts: tools and systems built to sharpen my understanding and improve how I think as an engineer.
 
@@ -41,15 +39,17 @@ Most of my projects are learning artifacts: tools and systems built to sharpen m
 *C# · .NET · ASP.NET Core · SQL · Entity Framework · REST · Git · Docker · Linux · C · C++ · Bash · Python*
 
 ---
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Bgoost/Bgoost/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contributions" />
 
 </div>
+
 ---
 
 ## 42 · Common Core Cursus
-
+<h2>42 · Common Core Cursus <a href="https://42.fr"> <img align="right" width="90" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" /> </a> </h2>
 <a href="https://42.fr"> <img align="right" width="90" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" /> </a>
 
 <table>
