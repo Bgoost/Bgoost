@@ -124,7 +124,7 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bgoost/Bgoost/main/assets/42_Logo.svg" alt="42 Logo" width="30" />
+  <img src="https://raw.githubusercontent.com/Bgoost/Bgoost/main/assets/42.svg" alt="42 Logo" width="30" />
 </div>
 
 > *“Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.”*  
