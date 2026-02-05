@@ -1,6 +1,6 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 960" width="960" height="960">
 	<style>
-		.s0 { fill: #ff0000 } 
+		.s0 { fill: #ffffff } 
 	</style>
 	<path id="polygon5" fill-rule="evenodd" class="s0" d="m32 612.6h330.1v165.4h164.7v-298.9h-329.5l329.5-330.2h-164.7l-330.1 330.2z"/>
 	<path id="polygon7" fill-rule="evenodd" class="s0" d="m597.9 314.2l164.8-165.3h-164.8z"/>

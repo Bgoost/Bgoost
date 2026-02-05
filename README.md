@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/visitor-count.svg" alt="Visitor count" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0a3340&text=Cristina%20Manzanares&fontSize=42&fontColor=3dd2ae" width="100%" alt="Header" />
 
@@ -65,7 +64,7 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
   <tbody>
     <tr>
       <td align="center">🟢 0-1</td>
-      <td align="center">C Vim Linux</td>
+      <td align="center">C, Vim, Linux</td>
       <td><b><a href="https://github.com/Bgoost/libft">libft</a> / born2beRoot</b></td>
       <td><b>Standard library</b> recreation & <b>SysAdmin</b> basics (SSH, sudo, firewall).</td>
     </tr>
@@ -77,7 +76,7 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
     </tr>
     <tr>
       <td align="center">🟢 2-3</td>
-      <td align="center">C Unix</td>
+      <td align="center">C, Unix</td>
       <td><b>
         <a href="https://github.com/Bgoost/push_swap">push_swap</a> /
         <a href="https://github.com/Bgoost/so_long">so_long</a> /
@@ -87,25 +86,25 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
     </tr>
     <tr>
       <td align="center">🟢 3</td>
-      <td align="center">C Threads</td>
+      <td align="center">C, Threads</td>
       <td><b><a href="https://github.com/Bgoost/philos">philosophers</a> / <a href="https://github.com/Bgoost/minishell">minishell</a></b></td>
       <td><b>Concurrency</b> (mutexes) & building a <b>Unix shell</b> (pipes, redirections, built‑ins).</td>
     </tr>
     <tr>
       <td align="center">🟢 4</td>
-      <td align="center">Network C++</td>
+      <td align="center">Network, C++</td>
       <td><b>netpractice / <a href="https://github.com/Bgoost/Cub3D">cub3D</a> / <a href="https://github.com/Bgoost/CPPS">C++ modules 00-04</a></b></td>
       <td><b>Subnetting</b>, <b>3D raycasting</b> and first steps in <b>OOP C++</b>.</td>
     </tr>
     <tr>
       <td align="center">🟢 5</td>
-      <td align="center">Docker C++</td>
+      <td align="center">Docker, C++</td>
       <td><b><a href="https://github.com/Bgoost/ft_irc">ft_irc</a> / <a href="https://github.com/Bgoost/inception">inception</a> / <a href="https://github.com/Bgoost/CPPS">C++ modules 05-09</a></b></td>
       <td><b>IRC server</b> (RFC 1459), <b>containerized infra</b> and advanced <b>C++</b> (templates, containers).</td>
     </tr>
     <tr>
       <td align="center">🟡 6</td>
-      <td align="center">JS React Postgres</td>
+      <td align="center">JS, React, Postgres</td>
       <td><b><a href="https://github.com/Bgoost/transcendence">transcendence</a></b></td>
       <td><b>Full‑stack</b> project with <b>real‑time</b> architecture.</td>
     </tr>
@@ -129,4 +128,4 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
 </div>
 
 > *“Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.”*  
-> — **John Woods**
+> - **John Woods**
