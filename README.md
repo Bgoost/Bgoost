@@ -16,7 +16,7 @@ I build **backend systems** where **logic**, **data flows**, and **structure** m
 
 My background is rooted in **C#/.NET development**, **REST APIs**, and **database-driven systems**, combined with hands-on experience in **systems administration**. That mix made me opinionated about **clean code**, **explicit design**, and understanding what’s actually happening under the hood.
 
-I enjoy working on problems where **correctness matters**, **abstractions are earned**, and **complexity is intentional**. When something breaks, I want to know *why* — not just how to patch it.
+I enjoy working on problems where **correctness matters**, **abstractions are earned**, and **complexity is intentional**. When something breaks, I want to know *why* - not just how to patch it.
 
 ---
 
@@ -26,7 +26,7 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
   <table>
     <tr>
       <td><img src="assets/profile-overview.svg" width="400" alt="Overview" /></td>
-      <td><img src="assets/language-usage.svg" width="400" alt="Languages" /></td>
+      <td><img src="assets/project-focus.svg" width="400" alt="Focus" /></td>
     </tr>
   </table>
 </div>
@@ -128,4 +128,4 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
 </div>
 
 > *“Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.”*  
-> - **John Woods**
+> -**John Woods**
