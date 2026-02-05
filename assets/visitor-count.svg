@@ -1,0 +1,7 @@
+<svg width="180" height="40" viewBox="0 0 180 40" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="180" height="40" rx="8" fill="#020617" stroke="#1f2937" stroke-width="1"/>
+  <rect x="0" y="0" width="90" height="40" rx="8" fill="#0b1220"/>
+  <text x="16" y="24" fill="#e5e7eb" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Visitors</text>
+  <text x="110" y="24" fill="#64ffda" font-family="system-ui, sans-serif" font-size="14" font-weight="bold"></text>
+</svg>
+

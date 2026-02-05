@@ -1,9 +1,7 @@
 <div align="center">
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b1220,100:1b263b&height=120&section=header&text=Cristina%20Manzanares&fontSize=42&fontColor=64ffda&animation=fadeIn" width="100%" alt="Header" /> -->
+
+<img src="assets/visitor-count.svg" alt="Visitor count" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0a3340&text=Cristina%20Manzanares&fontSize=42&fontColor=3dd2ae" width="100%" alt="Header" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=500&lines=Backend%E3%85%A4%E2%95%91%E3%85%A4C%23+%26+.NET%E3%85%A4%E2%95%91%E3%85%A442+systems;From+the+kernel+up)](https://git.io/typing-svg)
@@ -66,7 +64,7 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
   </thead>
   <tbody>
     <tr>
-      <td align="center">🟢 0–1</td>
+      <td align="center">🟢 0-1</td>
       <td align="center">`C` `Vim` `Bash`</td>
       <td><b><a href="https://github.com/Bgoost/libft">libft</a> / born2beRoot</b></td>
       <td><b>Standard library</b> recreation & <b>SysAdmin</b> basics (SSH, sudo, firewall).</td>
@@ -78,7 +76,7 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
       <td><b>Variadic functions</b> & <b>file descriptor</b> management.</td>
     </tr>
     <tr>
-      <td align="center">🟢 2–3</td>
+      <td align="center">🟢 2-3</td>
       <td align="center">`C` `Unix`</td>
       <td><b>
         <a href="https://github.com/Bgoost/push_swap">push_swap</a> /
@@ -96,13 +94,13 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
     <tr>
       <td align="center">🟢 4</td>
       <td align="center">`Network` `C++`</td>
-      <td><b>netpractice / <a href="https://github.com/Bgoost/Cub3D">cub3D</a> / <a href="https://github.com/Bgoost/CPPS">C++ modules 00–04</a></b></td>
+      <td><b>netpractice / <a href="https://github.com/Bgoost/Cub3D">cub3D</a> / <a href="https://github.com/Bgoost/CPPS">C++ modules 00-04</a></b></td>
       <td><b>Subnetting</b>, <b>3D raycasting</b> and first steps in <b>OOP C++</b>.</td>
     </tr>
     <tr>
       <td align="center">🟢 5</td>
       <td align="center">`Docker` `C++`</td>
-      <td><b><a href="https://github.com/Bgoost/ft_irc">ft_irc</a> / <a href="https://github.com/Bgoost/inception">inception</a> / <a href="https://github.com/Bgoost/CPPS">C++ modules 05–09</a></b></td>
+      <td><b><a href="https://github.com/Bgoost/ft_irc">ft_irc</a> / <a href="https://github.com/Bgoost/inception">inception</a> / <a href="https://github.com/Bgoost/CPPS">C++ modules 05-09</a></b></td>
       <td><b>IRC server</b> (RFC 1459), <b>containerized infra</b> and advanced <b>C++</b> (templates, containers).</td>
     </tr>
     <tr>
