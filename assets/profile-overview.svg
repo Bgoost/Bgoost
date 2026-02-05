@@ -1,28 +1,28 @@
 <svg width="520" height="180" viewBox="0 0 520 180" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="520" height="180" rx="8" fill="#020617" stroke="#1e293b" stroke-width="1"/>
-  <rect x="0" y="0" width="520" height="36" rx="8" fill="#0f172a"/>
+  <rect x="0" y="0" width="520" height="180" rx="8" fill="#020617" stroke="#1f2937" stroke-width="1"/>
+  <rect x="0" y="0" width="520" height="36" rx="8" fill="#0b1220"/>
   <text x="20" y="24" fill="#e5e7eb" font-family="system-ui, sans-serif" font-size="14" font-weight="bold">GitHub Overview</text>
-  <text x="500" y="24" text-anchor="end" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Bgoost</text>
+  <text x="500" y="24" text-anchor="end" fill="#64ffda" font-family="system-ui, sans-serif" font-size="11">Bgoost</text>
   <g transform="translate(20, 55)">
-    <circle cx="8" cy="8" r="4" fill="#ef4444"/>
+    <circle cx="8" cy="8" r="4" fill="#64ffda"/>
     <text x="20" y="12" fill="#e5e7eb" font-family="system-ui, sans-serif" font-size="12">Public repositories:</text>
-    <text x="180" y="12" fill="#ef4444" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">14</text>
+    <text x="180" y="12" fill="#64ffda" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">14</text>
   </g>
   <g transform="translate(20, 82)">
-    <circle cx="8" cy="8" r="4" fill="#dc2626"/>
+    <circle cx="8" cy="8" r="4" fill="#38bdf8"/>
     <text x="20" y="12" fill="#e5e7eb" font-family="system-ui, sans-serif" font-size="12">Stars across repos:</text>
-    <text x="180" y="12" fill="#dc2626" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">3+</text>
+    <text x="180" y="12" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">3+</text>
   </g>
   <g transform="translate(20, 109)">
-    <circle cx="8" cy="8" r="4" fill="#b91c1c"/>
+    <circle cx="8" cy="8" r="4" fill="#0ea5e9"/>
     <text x="20" y="12" fill="#e5e7eb" font-family="system-ui, sans-serif" font-size="12">Commits this year (approx):</text>
-    <text x="220" y="12" fill="#b91c1c" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">300</text>
+    <text x="220" y="12" fill="#0ea5e9" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">300</text>
   </g>
   <g transform="translate(20, 136)">
     <text x="0" y="12" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="11">Achievements:</text>
-    <rect x="0" y="20" width="88" height="22" rx="6" fill="#0f172a" stroke="#ef4444" stroke-width="1"/>
-    <text x="10" y="35" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="10">Pull Shark</text>
-    <rect x="96" y="20" width="56" height="22" rx="6" fill="#0f172a" stroke="#dc2626" stroke-width="1"/>
-    <text x="106" y="35" fill="#fca5a5" font-family="system-ui, sans-serif" font-size="10">YOLO</text>
+    <rect x="0" y="20" width="88" height="22" rx="6" fill="#020617" stroke="#64ffda" stroke-width="1"/>
+    <text x="10" y="35" fill="#e0f2fe" font-family="system-ui, sans-serif" font-size="10">Pull Shark</text>
+    <rect x="96" y="20" width="56" height="22" rx="6" fill="#020617" stroke="#38bdf8" stroke-width="1"/>
+    <text x="106" y="35" fill="#e0f2fe" font-family="system-ui, sans-serif" font-size="10">YOLO</text>
   </g>
 </svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=120&section=header&text=Cristina%20Manzanares&fontSize=42&fontColor=e0e1dd&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b1220,100:1b263b&height=120&section=header&text=Cristina%20Manzanares&fontSize=42&fontColor=64ffda&animation=fadeIn" width="100%" alt="Header" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=500&lines=Backend%E3%85%A4%E2%95%91%E3%85%A4C%23+%26+.NET%E3%85%A4%E2%95%91%E3%85%A442+systems;From+the+kernel+up)](https://git.io/typing-svg)
 
@@ -23,8 +23,8 @@ I enjoy working on problems where correctness matters, abstractions are earned, 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="assets/profile-overview.svg" width="380" alt="Overview" /></td>
-      <td align="center"><img src="assets/language-usage.svg" width="380" alt="Language usage" /></td>
+      <td><img src="assets/profile-overview.svg" width="400" alt="Overview" /></td>
+      <td><img src="assets/project-focus.svg" width="400" alt="Focus" /></td>
     </tr>
   </table>
 </div>
