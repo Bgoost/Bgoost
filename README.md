@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=120&section=header&text=Cristina%20Manzanares&fontSize=42&fontColor=e0e1dd&animation=fadeIn" width="100%" alt="Header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=64FFDA&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Backend%E3%85%A4%E2%95%91%E3%85%A4C%23+%26+.NET%E3%85%A4%E2%95%91%E3%85%A442+system;From+the+kernel+up)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=500&lines=Backend%E3%85%A4%E2%95%91%E3%85%A4C%23+%26+.NET%E3%85%A4%E2%95%91%E3%85%A442+systems;From+the+kernel+up)](https://git.io/typing-svg)
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crima/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117)](https://www.linkedin.com/in/crima/)
 
 </div>
 
@@ -14,20 +14,19 @@ I build backend systems where logic, data, and structure matter more than surfac
 
 My background is rooted in **C#/.NET development**, APIs, and database-driven systems, combined with hands-on experience in **systems administration**. That mix made me opinionated about clean code, explicit design, and understanding what’s actually happening under the hood.
 
-I enjoy working on problems where correctness matters, abstractions are earned, and complexity is intentional. When something breaks, I want to know *why* — not just how to patch it.
+I enjoy working on problems where correctness matters, abstractions are earned, and complexity is intentional. When something breaks, I want to know *why* - not just how to patch it.
 
 ---
 
 ## 📊 Infrastructure & Stats
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
-      <td><img src="assets/profile-overview.svg" width="400" alt="Overview" /></td>
-      <td><img src="assets/language-usage.svg" width="400" alt="Languages" /></td>
+      <td align="center"><img src="assets/profile-overview.svg" width="380" alt="Overview" /></td>
+      <td align="center"><img src="assets/language-usage.svg" width="380" alt="Language usage" /></td>
     </tr>
   </table>
-  <img src="assets/project-focus.svg" width="600" alt="Focus" />
 </div>
 
 ---
