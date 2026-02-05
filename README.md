@@ -105,8 +105,8 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
     <tr>
       <td align="center">🟡 6</td>
       <td align="center">JS, React, Postgres</td>
-      <td><b><a href="https://github.com/Bgoost/transcendence">transcendence</a></b></td>
-      <td><b>Full‑stack</b> project with <b>real‑time</b> architecture.</td>
+      <td><b>transcendence</b></td>
+      <td><b>Full‑stack</b> project with <b>real‑time</b> architecture. - on going</td>
     </tr>
   </tbody>
 </table>
@@ -128,4 +128,4 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
 </div>
 
 > *“Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.”*  
-> -**John Woods**
+> - **John Woods**
