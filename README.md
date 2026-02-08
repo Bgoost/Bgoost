@@ -2,22 +2,39 @@
 
 <!-- ================= HEADER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0a3340&text=Cristina%20Manzanares&fontSize=42&fontColor=3dd2ae#gh-dark-mode-only" width="100%" alt="Header Dark" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=e6f2f5&text=Cristina%20Manzanares&fontSize=42&fontColor=0a3340#gh-light-mode-only" width="100%" alt="Header Light" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0a3340&text=Cristina%20Manzanares&fontSize=42&fontColor=3dd2ae#gh-dark-mode-only"
+  width="100%"
+/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=e6f2f5&text=Cristina%20Manzanares&fontSize=42&fontColor=0a3340#gh-light-mode-only"
+  width="100%"
+/>
 
 <!-- ================= TYPING ================= -->
 
-![Typing Dark](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=500&lines=Backend%E3%85%A4%E2%95%91%E3%85%A4C%23+%26+.NET%E3%85%A4%E2%95%91%E3%85%A442+systems;From+the+kernel+up#gh-dark-mode-only)
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=500&lines=From+the+kernel+up#gh-dark-mode-only"
+/>
 
-![Typing Light](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=0A3340&background=00000000&center=true&vCenter=true&width=500&lines=Backend%E3%85%A4%E2%95%91%E3%85%A4C%23+%26+.NET%E3%85%A4%E2%95%91%E3%85%A442+systems;From+the+kernel+up#gh-light-mode-only)
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=0A3340&background=00000000&center=true&vCenter=true&width=500&lines=From+the+kernel+up#gh-light-mode-only"
+/>
 
-<!-- ================= CONTACT ================= -->
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117#gh-dark-mode-only)](https://www.linkedin.com/in/crima/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A3340?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=e6f2f5#gh-light-mode-only)](https://www.linkedin.com/in/crima/)
+<!-- ================= BADGES ================= -->
 
-[![Email](https://img.shields.io/badge/contact-passing?style=for-the-badge&logo=gmail&logoColor=64FFDA&label=gmail&labelColor=0d1117&color=64FFDA#gh-dark-mode-only)](mailto:crima1712@gmail.com?subject=Hello%Cris,%20From%20Github)
-[![Email](https://img.shields.io/badge/contact-passing?style=for-the-badge&logo=gmail&logoColor=0A3340&label=gmail&labelColor=e6f2f5&color=0A3340#gh-light-mode-only)](mailto:crima1712@gmail.com?subject=Hello%Cris,%20From%20Github)
+<a href="https://www.linkedin.com/in/crima/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117#gh-dark-mode-only" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A3340?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=e6f2f5#gh-light-mode-only" />
+</a>
+
+<a href="mailto:crima1712@gmail.com?subject=Hello%20Cris%2C%20From%20GitHub">
+  <img src="https://img.shields.io/badge/Gmail-Contact-64FFDA?style=for-the-badge&logo=gmail&logoColor=64FFDA&labelColor=0d1117#gh-dark-mode-only" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-0A3340?style=for-the-badge&logo=gmail&logoColor=0A3340&labelColor=e6f2f5#gh-light-mode-only" />
+</a>
 
 </div>
 
@@ -36,18 +53,13 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
 ## 📊 Infrastructure & Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="assets/profile-overview-dark.svg#gh-dark-mode-only" width="400" alt="Overview Dark" />
-        <img src="assets/profile-overview-light.svg#gh-light-mode-only" width="400" alt="Overview Light" />
-      </td>
-      <td>
-        <img src="assets/project-focus-dark.svg#gh-dark-mode-only" width="400" alt="Focus Dark" />
-        <img src="assets/project-focus-light.svg#gh-light-mode-only" width="400" alt="Focus Light" />
-      </td>
-    </tr>
-  </table>
+
+<img src="assets/profile-overview-dark.svg#gh-dark-mode-only" width="400" />
+<img src="assets/profile-overview-light.svg#gh-light-mode-only" width="400" />
+
+<img src="assets/project-focus-dark.svg#gh-dark-mode-only" width="400" />
+<img src="assets/project-focus-light.svg#gh-light-mode-only" width="400" />
+
 </div>
 
 ---
@@ -56,7 +68,9 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,git,docker,linux,c,cpp,bash&perline=9)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git,docker,linux,c,cpp,bash&perline=9" />
+
+<br />
 
 *C# · .NET · ASP.NET Core · SQL · Entity Framework · REST · Git · Docker · Linux · C · C++ · Bash · Python*
 
@@ -137,16 +151,16 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bgoost/Bgoost/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Contributions Dark" />
-<img src="https://raw.githubusercontent.com/Bgoost/Bgoost/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" alt="Contributions Light" />
+<img src="https://raw.githubusercontent.com/Bgoost/Bgoost/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" />
+<img src="https://raw.githubusercontent.com/Bgoost/Bgoost/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/42-dark.svg#gh-dark-mode-only" alt="42 Logo Dark" width="30" />
-  <img src="assets/42-light.svg#gh-light-mode-only" alt="42 Logo Light" width="30" />
+  <img src="assets/42-dark.svg#gh-dark-mode-only" width="32" />
+  <img src="assets/42-light.svg#gh-light-mode-only" width="32" />
 </div>
 
 > *“Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.”*  
