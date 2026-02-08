@@ -1,23 +1,25 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E5E7EB&text=Cristina%20Manzanares&fontSize=42&fontColor=0A3340"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A3340&text=Cristina%20Manzanares&fontSize=42&fontColor=FFFFFF"
   width="100%"
-/>
+/
+>
 
 <img
   src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=2DD4BF&background=00000000&center=true&vCenter=true&width=500&lines=From+the+kernel+up"
   alt="Typing"
-/>
+/
+>
 
 <br />
 
 <a href="https://www.linkedin.com/in/crima/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A3340?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:crima1712@gmail.com?subject=Hello%20Cris%2C%20From%20GitHub">
-  <img src="https://img.shields.io/badge/Gmail-Contact-0A3340?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
