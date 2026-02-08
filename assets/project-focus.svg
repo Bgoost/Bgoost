@@ -1,23 +1,23 @@
 <svg width="520" height="180" viewBox="0 0 520 180" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="520" height="180" rx="8" fill="#020617" stroke="#1f2937" stroke-width="1"/>
-  <rect x="0" y="0" width="520" height="36" rx="8" fill="#0b1220"/>
-  <text x="20" y="24" fill="#e5e7eb" font-family="system-ui, sans-serif" font-size="14" font-weight="bold">Project focus</text>
-  <text x="500" y="24" text-anchor="end" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">by domain</text>
+  <rect x="0" y="0" width="520" height="180" rx="8" fill="#0A3340" stroke="#08323a" stroke-width="1"/>
+  <rect x="0" y="0" width="520" height="36" rx="8" fill="#082730"/>
+  <text x="20" y="24" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="bold">Project focus</text>
+  <text x="500" y="24" text-anchor="end" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="11">by domain</text>
   <g transform="translate(24, 52)" font-family="system-ui, sans-serif" font-size="12">
-    <text x="0" y="0" fill="#e5e7eb">Systems / low-level C (42 core)</text>
-    <rect x="260" y="-10" width="220" height="14" rx="4" fill="#64ffda"/>
+    <text x="0" y="0" fill="#FFFFFF">Systems / low-level C (42 core)</text>
+    <rect x="260" y="-10" width="220" height="14" rx="4" fill="#2DD4BF"/>
     <text x="490" y="2" fill="#9ca3af">40%</text>
-    <text x="0" y="28" fill="#e5e7eb">C++ engines and modules</text>
-    <rect x="260" y="18" width="110" height="14" rx="4" fill="#38bdf8"/>
+    <text x="0" y="28" fill="#FFFFFF">C++ engines and modules</text>
+    <rect x="260" y="18" width="110" height="14" rx="4" fill="#2DD4BF"/>
     <text x="380" y="30" fill="#9ca3af">20%</text>
-    <text x="0" y="56" fill="#e5e7eb">Backend / .NET (C#)</text>
-    <rect x="260" y="46" width="110" height="14" rx="4" fill="#0ea5e9"/>
+    <text x="0" y="56" fill="#FFFFFF">Backend / .NET (C#)</text>
+    <rect x="260" y="46" width="110" height="14" rx="4" fill="#2DD4BF"/>
     <text x="380" y="58" fill="#9ca3af">20%</text>
-    <text x="0" y="84" fill="#e5e7eb">Networking and tooling</text>
-    <rect x="260" y="74" width="55" height="14" rx="4" fill="#22c55e"/>
+    <text x="0" y="84" fill="#FFFFFF">Networking and tooling</text>
+    <rect x="260" y="74" width="55" height="14" rx="4" fill="#2DD4BF"/>
     <text x="325" y="86" fill="#9ca3af">10%</text>
-    <text x="0" y="112" fill="#e5e7eb">Full-stack / web</text>
-    <rect x="260" y="102" width="55" height="14" rx="4" fill="#14b8a6"/>
+    <text x="0" y="112" fill="#FFFFFF">Full-stack / web</text>
+    <rect x="260" y="102" width="55" height="14" rx="4" fill="#2DD4BF"/>
     <text x="325" y="114" fill="#9ca3af">10%</text>
   </g>
 </svg>
