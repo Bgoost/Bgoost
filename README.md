@@ -138,7 +138,8 @@ I enjoy working on problems where **correctness matters**, **abstractions are ea
 ---
 
 <div align="center">
-  <img src="assets/42_s.svg" width="32" />
+  <img src="assets/42.svg" width="32" />
+  <img src="assets/42_black.svg" width="32" />
 </div>
 
 > *“Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.”*  

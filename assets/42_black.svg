@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 960" width="960" height="960">
+	<style>
+		.s0 { fill: #0e1017 } 
+	</style>
+	<path id="polygon5" fill-rule="evenodd" class="s0" d="m32 612.6h330.1v165.4h164.7v-298.9h-329.5l329.5-330.2h-164.7l-330.1 330.2z"/>
+	<path id="polygon7" fill-rule="evenodd" class="s0" d="m597.9 314.2l164.8-165.3h-164.8z"/>
+	<path id="polygon9" fill-rule="evenodd" class="s0" d="m762.7 314.2l-164.8 164.9v164.8h164.8v-164.8l165.3-164.9v-165.3h-165.3z"/>
+	<path id="polygon11" fill-rule="evenodd" class="s0" d="m928 479.1l-165.3 164.8h165.3z"/>
+</svg>
