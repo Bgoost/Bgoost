@@ -6,7 +6,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=2DD4BF&background=00000000&center=true&vCenter=true&width=500&lines=From+the+kernel+up"
+  src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=3000&pause=1000&color=2DD4BF&background=00000000&center=true&vCenter=true&width=500&lines=From+the+kernel+up](https://readme-typing-svg.herokuapp.com/?font=Jersey+10&size=30&duration=3000&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=500&lines=Backend%E3%85%A4%E2%95%91%E3%85%A4C%23+%26+.NET%E3%85%A4%E2%95%91%E3%85%A442+systems;From+the+kernel+up#gh-dark-mode-onl)"
   alt="Typing"
 />
 
